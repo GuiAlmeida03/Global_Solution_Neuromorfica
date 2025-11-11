@@ -8,7 +8,8 @@
 [![React](https://img.shields.io/badge/React-18+-blue.svg)](https://reactjs.org/)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-success)](https://GuiAlmeida03.github.io/Global_Solution_Neuromorfica/)
 
-**[🌐 Ver Simulação Online](https://GuiAlmeida03.github.io/Global_Solution_Neuromorfica/)** •  
+**[🌐 Ver Simulação Online](https://GuiAlmeida03.github.io/Global_Solution_Neuromorfica/)** •
+**[📚 Documentação](./documentacao/Global_Solution_IA_Neuromorfica.md)** •
 **[🐛 Reportar Bug](https://github.com/GuiAlmeida03/Global_Solution_Neuromorfica/issues)**
 
 ![Banner do Projeto](https://img.shields.io/badge/FIAP-Global%20Solution%202025.2-blue?style=for-the-badge)
