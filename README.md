@@ -418,8 +418,7 @@ Entre em contato através do email ou LinkedIn.
 - 🌐 **Simulação Online:** https://GuiAlmeida03.github.io/Global_Solution_Neuromorfica/
 - 📦 **Repositório GitHub:** https://github.com/GuiAlmeida03/Global_Solution_Neuromorfica
 - 📚 **Documentação Completa:** [Ver aqui](./documentacao/Global_Solution_IA_Neuromorfica.md)
-- 🎥 **Apresentação em Vídeo:** [Link do YouTube] *(se aplicável)*
-- 📊 **Slides da Apresentação:** [Link do SlideShare] *(se aplicável)*
+
 
 ---
 
